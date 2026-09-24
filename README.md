@@ -3,7 +3,11 @@ WEDE5112w POE
 Mashudu Ntsieni
 ST10507299
 
+Declaration of AI Use:
+I, Mashudu Ntsieni, have utilised AI tools for this assignment.
+
 Changelog:
+
 Initial commit of files
 
 Updated CSS files
@@ -27,6 +31,11 @@ Styled the portfolio page, updated the CSS of the index page
 Updated the about us page tablet responsiveness, CSS updated on the contact us, order and portfolio pages
 
 
+Screenshots of website on different devices:
+
+
+
+
 
 
 References:
@@ -38,3 +47,5 @@ Host Africa, 2022. How much does web design cost in South Africa? [online] Avail
 Host Africa, 2023. How to host a website: A complete beginner’s guide. [online] Available at: <https://hostafrica.co.za/blog/tutorials/how-to-host-a-website> [Accessed 21 August 2026].
 
 South African Depression and Anxiety Group (SADAG), n.d. SADAG: South African Depression and Anxiety Group. [online] Available at: <https://www.sadag.org> [Accessed 21 August 2026].
+
+
