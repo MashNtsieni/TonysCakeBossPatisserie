@@ -41,7 +41,7 @@ Screenshots of website on different devices:
 
 [![iPad 13 Pro](images/ipad-pro-13-screenshot.png)](images/ipad-pro-13-screenshot.png)
 
-![Desktop](images/Screenshot (61).png)
+[![Desktop](images/desktop-screenshot.png)](images/desktop-screenshot.png)
 
 
 References:
