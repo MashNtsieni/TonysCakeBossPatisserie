@@ -6,6 +6,7 @@ ST10507299
 Changelog:
 Initial commit of files
 Updated CSS files
+Added another colour from the company's logo onto the website, hex code: #92543d
 
 References:
 
