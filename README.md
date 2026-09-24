@@ -37,7 +37,7 @@ Screenshots of website on different devices:
 
 ![Samsung Galaxy A55](images/Screenshot 2026-09-24 220528.png)
 
-![iPad Mini](images/Screenshot 2026-09-24 220557.png)
+[![iPad Mini](images/ipad-mini-screenshot.png)](images/ipad-mini-screenshot.png)
 
 [![iPad 13 Pro](images/ipad-pro-13-screenshot.png)](images/ipad-pro-13-screenshot.png)
 
