@@ -28,3 +28,36 @@ h2{
     font-weight: 600;
 }
 
+p{
+    margin-bottom: 1rem;
+}
+
+/* Links */
+a{
+    color:#955436;
+    text-decoration:none;
+}
+
+a:visited {
+    color: #ba2731;
+}
+
+/* Images */
+img{
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+/* Buttons */
+button{
+    display: inline-block;
+    padding: 0.8rem 1.6rem;
+    border-radius:6px;
+    font-weight: 700;
+    text-align:center;
+    border:none;
+    cursor:pointer;
+    background-color:#955436;
+}
+
