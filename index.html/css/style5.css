@@ -61,3 +61,47 @@ button{
     background-color:#955436;
 }
 
+/* Header & Navigation */
+.site-header {
+    background-color: #d91a21;
+    position:sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.header-inner {
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    padding: 0.8rem 0;
+    gap: 1rem;
+}
+
+.logo {
+    display:flex;
+    align-items:center;
+    gap: 0.8rem;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.main-nav ul {
+    display:flex;
+    list-style:none;
+    gap: 1.5rem;
+    align-items:center;
+}
+
+.main-nav a {
+    font-weight: 600;
+    padding: 0.4rem 0.2rem;
+    border-bottom:2px solid transparent;
+}
+
+.main-nav a:hover,
+.main-nav a:focus,
+.main-nav a:active {
+    border-bottom:3px solid #955436;
+    text-decoration:none;
+}
+

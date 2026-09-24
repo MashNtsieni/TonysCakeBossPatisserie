@@ -9,7 +9,7 @@
     <!-- Makes the page responsive on mobile devices -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Home</title>
+    <title>Home | Tony's Cake Boss Patisserie</title>
 
 
 </head>
@@ -18,18 +18,28 @@
 
     <!-- Website Header -->
     <header>
-        <h1>Tony's Cake Boss Patisserie</h1>
-        <p>Tony's Cake Boss Patisserie</p>
-    </header>
+        <div class="container header-inner">
+            <a href="index.html.html" class="logo">
+                <img src="images/logo.png" alt="tonys-cake-boss-logo" width="60" height="60">
+                Tony's Cake Boss Patisserie
+            </a>
 
-    <!-- Website Navigation -->
-    <nav>
-        <a href="index.html.html">Home</a>
-        <a href="about-us.html.html">About</a>
-        <a href="order.html.html">Order</a>
-        <a href="contact-us.html.html">Contact</a>
-		<a href="portfolio.html.html">Portfolio</a>
-    </nav>
+            <input type="checkbox" id="nav-toggle" class="nav-toggle" aria-label="Toggle navigation">
+            <label for="nav-toggle" class="nav-toggle-label" aria-label="Toggle navigation">
+                <span></span>
+            </label>
+
+            <nav class="main-nav" aria-label="Main Navigation">
+                <ul>
+                    <li><a href="index.html.html">Home</a></li>
+                    <li><a href="about-us.html.html">About</a></li>
+                    <li><a href="order.html.html">Order</a></li>
+                    <li><a href="contact-us.html.html">Contact</a></li>
+                    <li><a href="portfolio.html.html">Portfolio</a></li>
+                </ul>
+            </nav>
+        </div>
+     </header>
 
     <!-- Main Page Content -->
     <main>
