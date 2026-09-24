@@ -33,7 +33,7 @@ Updated the about us page tablet responsiveness, CSS updated on the contact us, 
 
 Screenshots of website on different devices:
 
-![iPhone 16](images/Screenshot 2026-09-24 220459.png)
+[![iPhone16](images/iphone-16-screenshot.png)](images/iphone-16-screenshot.png)
 
 ![Samsung Galaxy A55](images/Screenshot 2026-09-24 220528.png)
 
