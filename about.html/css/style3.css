@@ -215,6 +215,19 @@ h3{
         justify-content: center;
         flex-wrap: wrap;
     }
+
+    main {
+        padding: 0 1rem;
+    }
+
+    h1 {
+        font-size: 1.8rem;
+        text-align: center;
+    }
+
+    .team {
+        padding: 1rem 0;
+    }
 }
 
 @media (max-width: 768px) {
@@ -276,15 +289,50 @@ h3{
 @media (max-width: 480px) {
     .header-inner {
         justify-content: space-between;
+        gap: 0.5rem;
+        padding: 0.6rem 0;
     }
 
     .logo {
-        font-size: 1.1rem;
+        font-size: 0.95rem;
         justify-content: flex-start;
+        gap: 0.5rem;
+    }
+
+    .logo img {
+        width: 42px;
+        height: 42px;
     }
 
     .nav-toggle-label {
         margin-left: auto;
+    }
+
+    main {
+        padding: 0 0.75rem;
+    }
+
+    h1 {
+        font-size: 1.6rem;
+        line-height: 1.2;
+    }
+
+    h2 {
+        font-size: 1.3rem;
+    }
+
+    .card-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .card {
+        padding: 0.5rem;
+    }
+
+    .social-list a {
+        width: 100%;
+        justify-content: flex-start;
+        padding: 0.25rem 0;
     }
 }
 
