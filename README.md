@@ -5,8 +5,29 @@ ST10507299
 
 Changelog:
 Initial commit of files
+
 Updated CSS files
+
 Added another colour from the company's logo onto the website, hex code: #92543d
+
+Updated the CSS and HTML of the index page
+
+Made changes to the index page HTML
+
+Updated the CSS, HTML, and added responsive design to all pages
+
+Created the CSS style for the contact us page and edited the HTML
+
+Added the logo to the contact us, order and portfolio pages
+
+Updated the about us page mobile responsiveness, CSS updated on the contact us, order and portfolio pages
+
+Styled the portfolio page, updated the CSS of the index page
+
+Updated the about us page tablet responsiveness, CSS updated on the contact us, order and portfolio pages
+
+
+
 
 References:
 
