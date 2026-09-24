@@ -7,8 +7,8 @@
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Launch Chrome against localhost",
-            "url": "http://localhost:8080",
+            "name": "Launch Chrome against file",
+            "url": "file:///c:/Users/mash8/OneDrive/school%20repeat/Website/index.html/index.html.html",
             "webRoot": "${workspaceFolder}"
         }
     ]
