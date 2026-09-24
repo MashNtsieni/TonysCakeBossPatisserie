@@ -39,7 +39,7 @@ Screenshots of website on different devices:
 
 ![iPad Mini](images/Screenshot 2026-09-24 220557.png)
 
-[![iPad 13 Pro](images/Screenshot 2026-09-24 220642.png)](images/Screenshot 2026-09-24 220642.png)
+[![iPad 13 Pro](images/ipad-pro-13-screenshot.png)](images/ipad-pro-13-screenshot.png)
 
 ![Desktop](images/Screenshot (61).png)
 
