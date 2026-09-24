@@ -1,0 +1,30 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Montserrat', 'Futura', 'Century Gothic', Arial, sans-serif;
+    font-size:medium;
+    line-height: 1.6;
+    color:black;
+    background-color: white;
+}
+
+/* Typography */
+h1, h2{
+    font-family: 'Montserrat', 'Futura', 'Century Gothic', Arial, sans-serif;
+    line-height: 1.2;
+    margin-bottom: 1rem;
+    color: #d91a21;
+}
+
+h1{
+    font-size:2rem;
+    font-weight: 700;
+}
+
+h2{
+    font-size: 1.6rem;
+    font-weight: 600;
+}
+
