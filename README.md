@@ -30,12 +30,13 @@ Styled the portfolio page, updated the CSS of the index page
 
 Updated the about us page tablet responsiveness, CSS updated on the contact us, order and portfolio pages
 
+Uploaded screenshots of the website on different devices in readme file
 
 Screenshots of website on different devices:
 
 [![iPhone16](images/iphone-16-screenshot.png)](images/iphone-16-screenshot.png)
 
-![Samsung Galaxy A55](images/Screenshot 2026-09-24 220528.png)
+[![Samsung Galaxy A55](images/samsung-galaxy-a55-screenshot.png)](images/samsung-galaxy-a55-screenshot.png)
 
 [![iPad Mini](images/ipad-mini-screenshot.png)](images/ipad-mini-screenshot.png)
 
