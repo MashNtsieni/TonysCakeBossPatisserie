@@ -63,7 +63,9 @@ Updated screenshots of the website on different devices:
 
 [![iPad Mini](images/ipad-mini-screenshot-2.png)](images/ipad-mini-screenshot-2.png)
 
-[![iPad 13 Pro](images/
+[![iPad 13 Pro](images/ipad-pro-13-screenshot-2.png)](images/ipad-pro-13-screenshot-2.png)
+
+[![Desktop](images/desktop-screenshot-2.png)](images/desktop-screenshot-2.png)
 
 References:
 
