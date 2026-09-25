@@ -1,10 +1,13 @@
 WEDE5112w POE
 
 Mashudu Ntsieni
+
 ST10507299
 
 Declaration of AI Use:
-I, Mashudu Ntsieni, have utilised AI tools for this assignment.
+
+I, Mashudu Ntsieni, have utilised AI tools (Google Gemini and GitHub Copilot) for this assignment to aid me with code.
+
 
 Changelog:
 
@@ -36,6 +39,8 @@ Updated the fonts for the typography on all pages
 
 Updated reference list
 
+Updated screenshots
+
 
 
 Screenshots of website on different devices:
@@ -52,7 +57,13 @@ Screenshots of website on different devices:
 
 Updated screenshots of the website on different devices:
 
+[![iPhone 16](images/iphone-16-screenshot-2.png)](images/iphone-16-screenshot-2.png)
 
+[![Samsung Galaxy A55](images/samsung-galaxy-a55-screenshot-2.png)](images/samsung-galaxy-a55-screenshot-2.png)
+
+[![iPad Mini](images/ipad-mini-screenshot-2.png)](images/ipad-mini-screenshot-2.png)
+
+[![iPad 13 Pro](images/
 
 References:
 
