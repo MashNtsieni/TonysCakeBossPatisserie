@@ -18,7 +18,7 @@ body {
 
 /* Typography */
 h1, h2, h3, p{
-    font-family: 'Montserrat', 'Futura', 'Century Gothic', Arial, sans-serif;
+    font-family: 'Dancing Script', 'Montserrat', 'Trebuchet MS', Arial, sans-serif;
     line-height: 1.2;
     margin-bottom: 1rem;
     color: #d91a21;
@@ -26,21 +26,26 @@ h1, h2, h3, p{
 
 h1{
     font-size:2rem;
+    font-family: 'Dancing Script', cursive;
     font-weight: 700;
+    text-align: center;
 }
 
 h2{
     font-size: 1.6rem;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 600;
 }
 
 h3{
     font-size: 1.4rem;
+    font-family: Arial, sans-serif;
     font-weight: 500;
 }
 
 p{
     margin-bottom: 1rem;
+    font-family: 'Trebuchet MS', sans-serif;
 }
 
 /* Links */
