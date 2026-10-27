@@ -1,15 +1,15 @@
-WEDE5112w POE
+##WEDE5112w POE
 
 Mashudu Ntsieni
 
 ST10507299
 
-Declaration of AI Use:
+##Declaration of AI Use:
 
 I, Mashudu Ntsieni, have utilised AI tools (Google Gemini and GitHub Copilot) for this assignment to aid me with code.
 
 
-Changelog:
+##Changelog:
 
 Initial commit of files
 
@@ -43,7 +43,7 @@ Updated screenshots
 
 
 
-Screenshots of website on different devices:
+##Screenshots of website on different devices:
 
 [![iPhone16](images/iphone-16-screenshot.png)](images/iphone-16-screenshot.png)
 
@@ -77,7 +77,7 @@ Host Africa, 2023. How to host a website: A complete beginner’s guide. [online
 
 South African Depression and Anxiety Group (SADAG), n.d. SADAG: South African Depression and Anxiety Group. [online] Available at: <https://www.sadag.org> [Accessed 21 August 2026].
 
-Updated Reference List:
+##Updated Reference List:
 
 Tony's Cake Boss Patisserie, 2024. [Facebook] 29 March. Available at: <https://www.facebook.com/photo.php?fbid=1513390134124375&set=pb.100063602078984.-2207520000&type=3> [Accessed 24 September 2026].
 
