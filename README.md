@@ -3,10 +3,10 @@ WEDE5112w POE
 Mashudu Ntsieni
 ST10507299
 
-Declaration of AI Use:
+##Declaration of AI Use:
 I, Mashudu Ntsieni, have utilised AI tools for this assignment.
 
-Changelog:
+##Changelog:
 
 Initial commit of files
 
@@ -32,7 +32,13 @@ Updated the about us page tablet responsiveness, CSS updated on the contact us, 
 
 Uploaded screenshots of the website on different devices in readme file
 
-Screenshots of website on different devices:
+##Feedback from Part 2
+
+I improved the file structure by changing the names of the files.
+
+I am not able to find feedback from Part 1 so I do not know what changes need to be made.
+
+##Screenshots of website on different devices:
 
 [![iPhone16](images/iphone-16-screenshot.png)](images/iphone-16-screenshot.png)
 
@@ -45,7 +51,7 @@ Screenshots of website on different devices:
 [![Desktop](images/desktop-screenshot.png)](images/desktop-screenshot.png)
 
 
-References:
+##References:
 
 Host Africa, 2021. How much does a website cost in South Africa? [online] Available at: <https://hostafrica.co.za/blog/websites/website-basics/how-much-does-a-website-cost-in-south-africa> [Accessed 21 August 2026].
 

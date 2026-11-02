@@ -141,6 +141,35 @@ button{
     padding-right: 1.5rem;
 }
 
+/* Forms Styles */
+form {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+form label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+}
+
+form input,
+form select,
+form textarea {
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 1rem;
+}
+
+form button {
+    margin-top: 1rem;
+    background-color: #92543d;
+    color: #ffffff;
+}
+
 /* Responsive Design */
 
 /* Tablet */
