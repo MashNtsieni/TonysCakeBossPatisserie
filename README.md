@@ -67,7 +67,7 @@ Updated screenshots of the website on different devices:
 
 [![Desktop](images/Desktop-screenshot-2.png)](images/Desktop-screenshot-2.png)
 
-References:
+##References:
 
 Host Africa, 2021. How much does a website cost in South Africa? [online] Available at: <https://hostafrica.co.za/blog/websites/website-basics/how-much-does-a-website-cost-in-south-africa> [Accessed 21 August 2026].
 
