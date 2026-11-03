@@ -61,8 +61,6 @@ I added sitemap.xml and robot.txt files
 
 I added meta tags, including keywords and descriptions
 
-
-
 ## Screenshots of website on different devices:
 
 [![iPhone16](images/iphone-16-screenshot.png)](images/iphone-16-screenshot.png)
