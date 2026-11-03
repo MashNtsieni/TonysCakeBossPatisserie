@@ -395,6 +395,12 @@ button{
         padding: 3.5rem 2.75rem 1.5rem;
     }
 
+    .lightbox-trigger:focus-visible,
+    .lightbox button:focus-visible {
+        outline: 3px solid #d91a21;
+        outline-offset: 3px;
+    }
+
     .lightbox-previous {
         left: 0.25rem;
     }
