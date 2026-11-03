@@ -43,7 +43,21 @@ Updated screenshots
 
 ## Changelog (Final POE):
 
+I refactored the file structure, updated navigation links, enhanced the style sheet and added the forms
 
+I fixed the file structure with help from the lecturer
+
+I updated the the hero image source in the index page's HTML
+
+I updated the contact us page map styling so it is more responsive on smaller screens and i enhanced the index page card structure
+
+I added padding to the card grids for better layout
+
+I added padding to form elements to improve spacing
+
+I updated formatting and sections in the README file
+
+I updated the changelog in the README file
 
 ## Screenshots of website on different devices:
 
