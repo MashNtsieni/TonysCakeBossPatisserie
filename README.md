@@ -65,6 +65,8 @@ I added the lightbox feature on the portfolio page
 
 I added and later improved the form validation using AJAX for the contact us and order forms
 
+I added animation effects to the pages so that the website looks pleasing to the user
+
 ## Screenshots of website on different devices:
 
 [![iPhone16](images/iphone-16-screenshot.png)](images/iphone-16-screenshot.png)
