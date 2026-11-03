@@ -53,31 +53,55 @@
         <h1>Portfolio</h1>
         <section class="gallery" aria-label="Portfolio gallery">
             <figure class="gallery-item">
-                <img src="images/birthday-cake-1.jpg" alt="Cake design showcase 1">
+                <button class="lightbox-trigger" type="button" aria-label="View Cake design showcase 1">
+                    <img src="images/birthday-cake-1.jpg" alt="Cake design showcase 1">
+                </button>
             </figure>
             <figure class="gallery-item">
-                <img src="images/birthday-cake-2.jpg" alt="Cake design showcase 2">
+                <button class="lightbox-trigger" type="button" aria-label="View Cake design showcase 2">
+                    <img src="images/birthday-cake-2.jpg" alt="Cake design showcase 2">
+                </button>
             </figure>
             <figure class="gallery-item">
-                <img src="images/birthday-cake-3.jpg" alt="Cake design showcase 3">
+                <button class="lightbox-trigger" type="button" aria-label="View Cake design showcase 3">
+                    <img src="images/birthday-cake-3.jpg" alt="Cake design showcase 3">
+                </button>
             </figure>
             <figure class="gallery-item">
-                <img src="images/cupcakes-1.jpg" alt="Cake design showcase 4">
+                <button class="lightbox-trigger" type="button" aria-label="View Cake design showcase 4">
+                    <img src="images/cupcakes-1.jpg" alt="Cake design showcase 4">
+                </button>
             </figure>
             <figure class="gallery-item">
-                <img src="images/wedding-cake-1.jpg" alt="Cake design showcase 5">
+                <button class="lightbox-trigger" type="button" aria-label="View Cake design showcase 5">
+                    <img src="images/wedding-cake-1.jpg" alt="Cake design showcase 5">
+                </button>
             </figure>
             <figure class="gallery-item">
-                <img src="images/doughnuts-2.jpg" alt="Cake design showcase 6">
+                <button class="lightbox-trigger" type="button" aria-label="View Cake design showcase 6">
+                    <img src="images/doughnuts-2.jpg" alt="Cake design showcase 6">
+                </button>
             </figure>
         </section>
     </main>
+
+    <dialog class="lightbox" aria-label="Portfolio image viewer">
+        <button class="lightbox-close" type="button" aria-label="Close image viewer">&times;</button>
+        <button class="lightbox-previous" type="button" aria-label="Previous image">&#10094;</button>
+        <figure class="lightbox-content">
+            <img class="lightbox-image" alt="">
+            <figcaption class="lightbox-caption"></figcaption>
+        </figure>
+        <button class="lightbox-next" type="button" aria-label="Next image">&#10095;</button>
+        <p class="lightbox-counter" aria-live="polite"></p>
+    </dialog>
 
     <!-- Website Footer -->
     <footer>
         <p>&copy; 2026 Tony's Cake Boss Patisserie. All rights reserved.</p>
     </footer>
 
+    <script src="js/scripts.js" defer></script>
 </body>
 
 </html>

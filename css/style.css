@@ -180,6 +180,92 @@ button{
     transition: transform 0.25s ease;
 }
 
+.lightbox-trigger {
+    display: block;
+    width: 100%;
+    padding: 0;
+    overflow: hidden;
+    background: transparent;
+}
+
+.lightbox-trigger:focus-visible,
+.lightbox button:focus-visible {
+    outline: 3px solid #d91a21;
+    outline-offset: 3px;
+}
+
+.lightbox {
+    position: fixed;
+    width: min(1000px, calc(100% - 2rem));
+    max-width: none;
+    max-height: min(90vh, 900px);
+    padding: 3rem 4rem 2rem;
+    border: 0;
+    border-radius: 12px;
+    color: #ffffff;
+    background: rgba(17, 17, 17, 0.97);
+}
+
+.lightbox::backdrop {
+    background: rgba(0, 0, 0, 0.85);
+}
+
+.lightbox-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.75rem;
+    margin: 0;
+}
+
+.lightbox-image {
+    width: auto;
+    max-width: 100%;
+    max-height: 72vh;
+    object-fit: contain;
+}
+
+.lightbox-caption,
+.lightbox-counter {
+    color: #ffffff;
+    text-align: center;
+}
+
+.lightbox-caption {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.lightbox-counter {
+    margin: 0.5rem 0 0;
+}
+
+.lightbox button {
+    position: absolute;
+    min-width: 44px;
+    min-height: 44px;
+    padding: 0.35rem;
+    color: #ffffff;
+    font-size: 1.5rem;
+    background: #92543d;
+}
+
+.lightbox-close {
+    top: 0.75rem;
+    right: 0.75rem;
+}
+
+.lightbox-previous {
+    top: 50%;
+    left: 0.75rem;
+    transform: translateY(-50%);
+}
+
+.lightbox-next {
+    top: 50%;
+    right: 0.75rem;
+    transform: translateY(-50%);
+}
+
 .map-container {
     width: min(100%, 600px);
     margin: 0 auto;
@@ -302,6 +388,19 @@ button{
 
     .gallery-item img {
         height: 220px;
+    }
+
+    .lightbox {
+        width: calc(100% - 1rem);
+        padding: 3.5rem 2.75rem 1.5rem;
+    }
+
+    .lightbox-previous {
+        left: 0.25rem;
+    }
+
+    .lightbox-next {
+        right: 0.25rem;
     }
 
      .card-grid {
