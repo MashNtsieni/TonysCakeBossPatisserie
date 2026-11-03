@@ -61,6 +61,10 @@ I added sitemap.xml and robot.txt files
 
 I added meta tags, including keywords and descriptions
 
+I added the lightbox feature on the portfolio page
+
+I added and later improved the form validation using AJAX for the contact us and order forms
+
 ## Screenshots of website on different devices:
 
 [![iPhone16](images/iphone-16-screenshot.png)](images/iphone-16-screenshot.png)
