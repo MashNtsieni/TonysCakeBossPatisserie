@@ -335,6 +335,10 @@ button{
     .hero-image {
         max-height: 260px;
     }
+
+    .form {
+        padding: 0 1rem;
+    }
 }
 
 /* Footer */
