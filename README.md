@@ -1,15 +1,15 @@
-##WEDE5112w POE
+# WEDE5112w POE
 
 Mashudu Ntsieni
 
 ST10507299
 
-##Declaration of AI Use:
+## Declaration of AI Use:
 
 I, Mashudu Ntsieni, have utilised AI tools (Google Gemini and GitHub Copilot) for this assignment to aid me with code.
 
 
-##Changelog:
+## Changelog (Part2):
 
 Initial commit of files
 
@@ -41,9 +41,25 @@ Updated reference list
 
 Updated screenshots
 
+## Changelog (Final POE):
 
+I refactored the file structure, updated navigation links, enhanced the style sheet and added the forms
 
-##Screenshots of website on different devices:
+I fixed the file structure with help from the lecturer
+
+I updated the the hero image source in the index page's HTML
+
+I updated the contact us page map styling so it is more responsive on smaller screens and i enhanced the index page card structure
+
+I added padding to the card grids for better layout
+
+I added padding to form elements to improve spacing
+
+I updated formatting and sections in the README file
+
+I updated the changelog in the README file
+
+## Screenshots of website on different devices:
 
 [![iPhone16](images/iphone-16-screenshot.png)](images/iphone-16-screenshot.png)
 
@@ -67,7 +83,13 @@ Updated screenshots of the website on different devices:
 
 [![Desktop](images/Desktop-screenshot-2.png)](images/Desktop-screenshot-2.png)
 
-##References:
+## Feedback from Part 2
+
+I could not find any feedback from Part 1 of the assignment.
+
+I got help from the lecturer to help change the file structure of the files for the website.
+
+## References:
 
 Host Africa, 2021. How much does a website cost in South Africa? [online] Available at: <https://hostafrica.co.za/blog/websites/website-basics/how-much-does-a-website-cost-in-south-africa> [Accessed 21 August 2026].
 
@@ -77,7 +99,7 @@ Host Africa, 2023. How to host a website: A complete beginner’s guide. [online
 
 South African Depression and Anxiety Group (SADAG), n.d. SADAG: South African Depression and Anxiety Group. [online] Available at: <https://www.sadag.org> [Accessed 21 August 2026].
 
-##Updated Reference List:
+## Updated Reference List:
 
 Tony's Cake Boss Patisserie, 2024. [Facebook] 29 March. Available at: <https://www.facebook.com/photo.php?fbid=1513390134124375&set=pb.100063602078984.-2207520000&type=3> [Accessed 24 September 2026].
 
