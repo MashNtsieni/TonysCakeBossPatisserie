@@ -52,16 +52,17 @@
     <main>
 <h1>Contact Us</h1>
 
-<form>
+<form id="contact-form" data-validate-form="contact" action="https://formspree.io/f/xoeeyjpw" method="post">
 <label for="name">Name:</label>
-<input type="text" id="name" name="name" required>
+<input type="text" id="name" name="name" autocomplete="name" required>
 
 <label for="email">Email:</label>
-<input type="email" id="email" name="email" required>
+<input type="email" id="email" name="email" autocomplete="email" required>
 
 <label for="message">Message:</label>
 <textarea id="message" name="message" rows="5" required></textarea>
 
+<p class="form-status" data-form-status role="status" aria-live="polite"></p>
 <button type="submit">Send Message</button>
 </form>
 
@@ -70,7 +71,7 @@
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3584.161370825351!2d27.946256899999998!3d-26.0609821!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1e957671296d425b%3A0x395cc2335181cdb6!2sTony's%20Cake%20Boss%20Patisserie!5e0!3m2!1sen!2sza!4v1793307745425!5m2!1sen!2sza" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 </div>
 
-<script src="js/script.js"></script>
+<script src="js/scripts.js" defer></script>
 
     <!-- Website Footer -->
     <footer>

@@ -685,6 +685,19 @@ form button {
     border-radius: 4px;
 }
 
+form .form-status {
+    margin: 0;
+    color: #245c2a;
+}
+
+form .form-status:empty {
+    display: none;
+}
+
+form .form-status.is-error {
+    color: #a32020;
+}
+
 /* About Us Page */
 /* About Section */
 .about {
