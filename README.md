@@ -57,7 +57,7 @@ I added padding to form elements to improve spacing
 
 I updated formatting and sections in the README file
 
-I updated the changelog in the README file
+I added sitemap.xml and robot.txt files
 
 ## Screenshots of website on different devices:
 
