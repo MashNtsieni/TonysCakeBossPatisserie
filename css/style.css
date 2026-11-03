@@ -306,6 +306,7 @@ button{
 
      .card-grid {
         grid-template-columns: 1fr;
+        padding: 0.5rem;
     }
 
     .card {
@@ -324,6 +325,7 @@ button{
 
     .card-grid-index {
         grid-template-columns: 1fr;
+        padding: 0.5rem;
     }
 
     .hero {
