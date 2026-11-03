@@ -55,6 +55,41 @@ function initializeLightbox() {
     });
 }
 
+let revealObserver;
+
+function initializeAnimations() {
+    const reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    if (reducedMotion || !("IntersectionObserver" in window)) {
+        document.documentElement.classList.remove("motion-enabled");
+        return;
+    }
+
+    revealObserver?.disconnect();
+    document.documentElement.classList.add("motion-enabled");
+
+    const revealItems = document.querySelectorAll(
+        "main > h1, main > section, main > form, main > .map-container, .card, .card-index, .gallery-item, .social-list li"
+    );
+
+    revealObserver = new IntersectionObserver((entries, observer) => {
+        entries.forEach((entry) => {
+            if (entry.isIntersecting) {
+                entry.target.classList.add("is-visible");
+                observer.unobserve(entry.target);
+            }
+        });
+    }, {
+        threshold: 0.12,
+        rootMargin: "0px 0px -24px 0px"
+    });
+
+    revealItems.forEach((item) => {
+        item.classList.remove("is-visible");
+        item.classList.add("reveal-item");
+        revealObserver.observe(item);
+    });
+}
+
 function initializeForms() {
     document.querySelectorAll("form[data-validate-form]").forEach((form) => {
         const status = form.querySelector("[data-form-status]");
@@ -217,6 +252,7 @@ async function loadPage(url, { updateHistory = true } = {}) {
         updateCurrentNavigation();
         initializeLightbox();
         initializeForms();
+        initializeAnimations();
         window.scrollTo(0, 0);
 
         const loadedMain = document.querySelector("main");
@@ -276,4 +312,5 @@ window.addEventListener("popstate", () => {
 
 initializeLightbox();
 initializeForms();
+initializeAnimations();
 updateCurrentNavigation();
