@@ -67,6 +67,8 @@ I added and later improved the form validation using AJAX for the contact us and
 
 I added animation effects to the pages so that the website looks pleasing to the user
 
+I updated the READEME file with changelog updates and I updated the references list for the research I gathered for the final part of the POE
+
 ## Screenshots of website on different devices:
 
 [![iPhone16](images/iphone-16-screenshot.png)](images/iphone-16-screenshot.png)
@@ -107,7 +109,7 @@ Host Africa, 2023. How to host a website: A complete beginner’s guide. [online
 
 South African Depression and Anxiety Group (SADAG), n.d. SADAG: South African Depression and Anxiety Group. [online] Available at: <https://www.sadag.org> [Accessed 21 August 2026].
 
-## Updated Reference List:
+## Updated Reference List (Part 2):
 
 Tony's Cake Boss Patisserie, 2024. [Facebook] 29 March. Available at: <https://www.facebook.com/photo.php?fbid=1513390134124375&set=pb.100063602078984.-2207520000&type=3> [Accessed 24 September 2026].
 
@@ -130,3 +132,21 @@ Tony's Cake Boss Patisserie, 2026. Isn't that the truth. [Facebook] 10 April. Av
 Tony's Cake Boss Patisserie, 2021. His business partner Henk. [Facebook] 27 April. Available at: <https://www.facebook.com/photo/?fbid=1644959719039951&set=a.441959937934072> [Accessed 24 September 2026].
 
 Tony's Cake Boss Patisserie, 2023. [Facebook] 2 September. Available at: <https://www.facebook.com/photo?fbid=779564000840329&set=pcb.779564200840309> [Accessed 24 September 2026].
+
+## Reference List (Final POE):
+
+Digital.gov, [s.a]. An introduction to robots.txt files. [online] Available at: <https://www.programiz.com/html/input> [Accessed 2 November 2026].
+
+Geeks for Geeks, 2026. Css forms styling. [online] Available at: <https://www.geeksforgeeks.org/css/css-styling-forms/> [Accessed 2 November 2026].
+
+Google Developers, 2026. Build and submit a sitemap. [online] Available at: <https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap> [Accessed 2 November 2026]
+
+Programiz, [s.a]. Css form styling (with examples). [online] Available at: <https://www.programiz.com/css/form-styling#google_vignette> [Accessed 2 November 2026].
+
+Programiz, [s.a]. Html form (with examples). [online] Available at: <https://www.programiz.com/html/form#google_vignette> [Accessed 2 November 2026].
+
+Programiz, [s.a]. Html input tag (with examples). [online] Available at: <https://www.programiz.com/html/input> [Accessed 2 November 2026].
+
+## ATTENTION
+
+After a user fills in a form, they will not be sent an email because I am using the free plan of formspree for this assignment.
